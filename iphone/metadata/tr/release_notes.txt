@@ -1,26 +1,32 @@
-• Yeni OSM haritaları verileri (12 Eylül)
-• Türkçe Telegram ve Instagram hesap bağlantıları yardım sayfasına eklendi
-• Bazı OSM nesnelerini düzenledikten sonra başlangıçta oluşan çökme sorunu düzeltildi
-• Yer imi listeleri artık son değiştirilme zamanına göre sıralanıyor
-• Bir sonraki sokak adını içeren yönergeler daha iyi görüntüleniyor
-• Her yerde aynı sistem yazı tipi kullanılıyor
-• Bir hatayı bildirmek için iOS 14'te artık varsayılan posta uygulamasını kullanılıyor
+• Yeni OSM harita verileri (19 Ekim)
+• Ufak performans iyileştirmeleri
+• Bozuk KML'ler artık açılışta kayda (log) ekleniyor
+• Dışa aktarılan yer imlerinden ASCII olmayan karakterler artık aktarılmıyor
+• Rota yükseklik grafiği iyileştirildi
+• Mekan Sayfasında artık varsayılan sistem saat biçimi (12/24 saat) kullanılıyor
+
+Rota ve Navigasyon:
+• Yürüyüş ve bisiklet rotaları için "Kaçınılması gereken yollar" seçeneği eklendi
+• Araç modelleri güncellendi
+• Artık tüm rota türleri için yoldaki uyarılar gösteriliyor
+• Dokunulduğunda hız kamerası gösteriliyor
 
 Arama:
-• Arama sonuçlarının üst kısmındaki alanda özellikler gösteriliyor
-• Bazı arama sorguları önemli ölçüde hızlandırıldı
-• Kategori sıralaması ve adres araması iyileştirildi
-• Harita üzerinde vurgulanan otel arama sonuçları simgesi düzeltildi
+• Artık bulunan tüm sonuçlar harita ekranında gösteriliyor
+• Geliştirilmiş köy araması
+• Artık adlar değil, yalnızca listeden seçildiyse eşleşen kategoriler gösteriliyor
 
-Stiller ve simgeler:
-• Sürücü okulu, müzik okulu, dil okulu, arkeolojik site eklendi
-• Tarihi mezarlık simgelerindeki arka plan kaldırıldı
-• Farklı kale türleri eklendi: castrum, fortified_church, fortress, hillfort, kremlin, manor, palace & shiro
-• Eğitim ve bazı spor dallarının görünürlüğü arttırıldı
-• Ayrılmış mobilya ve mutfak tipleri
-• Daha iyi görünümlü leisure=track
-• vending=fuel simgesi düzeltildi
+Stiller:
+• Metro girişleri ve istasyonlar için yerel metro simgeleri eklendi
+• Bira fabrikası, tesisatçı, terzi, marangoz, kereste fabrikası, arıcı, demirci, elektrikçi, ressam ve diğer zanaat türü simgeleri eklendi
+• history=* kategorileri için düzeltilmiş öncelik
+• Uluslararası havalimanı simgeleri 7-9 zum seviyesinde gösteriliyor
+• Artık büyük şehirler için metro haritası 12 zum seviyesinden başlayarak gösteriliyor
+• natural=shrubbery, natural=desert, leisure=dance, amenity=charging_station-motorcar ve daha fazla bariyer türü eklendi
+• Artık building=train_station için tren istasyonu simgesi gösterilmiyor
+• Bahçe, park, orman, milli park, doğa koruma alanı, elektrik, baca için güncellenmiş simgeler
+• Tarihi darağacı, boyunduruk, anıt haç, tökezleyen taşlar (stolperstein) ve savaş anıtı kategorileri eklendi
 
 Çeviriler:
-• craft=* için eksik çeviriler eklendi
-• Bazı çeviriler eklendi/düzeltildi
+• Harita indirme sayfasında Oregon haritaları için daha büyük, coğrafi olarak daha önemli adlar kullanılıyor
+• Çeviriler güncellendi
